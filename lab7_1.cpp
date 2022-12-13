@@ -52,5 +52,5 @@ int main(){
 	{
 		cout << "Palindrome: " << "No";
 	}
-    return 0
+    return 0;
 }
